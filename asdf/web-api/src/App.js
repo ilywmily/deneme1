@@ -4,7 +4,7 @@ import SideNav from './components/SideNav'
 function App() {
   return (
     <div>
-<SideNav></SideNav>
+      <SideNav/>
     </div>
   );
 }

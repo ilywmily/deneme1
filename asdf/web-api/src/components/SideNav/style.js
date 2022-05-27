@@ -1,8 +1,6 @@
 import styled from "styled-components"
-export const Side=styled.div`
-position:fixed;
-height:100%;
-width:170px;
-background-color: black;
-z-index: 1;
-`
+export const Title = styled.h1`
+  font-size: 1.5em;
+  text-align: center;
+  color: palevioletred;
+`;
